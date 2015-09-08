@@ -1,2 +1,15 @@
-var/cache/
-var/session
+var/
+errors/
+media/
+downloader/
+shell/
+pkginfo/
+lib/
+js/
+includes/
+app/code/
+app/etc/
+app/locale/
+skin/adminhtml/
+app/design/adminhtml/
+
