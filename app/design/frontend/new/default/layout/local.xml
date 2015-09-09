@@ -24,6 +24,10 @@
                 <block type="core/template" name="top.search" as="topSearch" template="catalogsearch/form.mini.phtml"/>
             </block>
 
+            <block type="core/template" name="home-page-content" as="home-page-content" translate="label">
+                <action method="setTemplate"><template>page/html/home-page-content.phtml</template></action>
+            </block>
+
             <block type="core/text_list" name="content" as="content" translate="label">
 
             </block>
